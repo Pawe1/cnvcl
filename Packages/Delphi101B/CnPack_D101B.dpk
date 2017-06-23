@@ -29,6 +29,8 @@ package CnPack_D101B;
 {$RUNONLY}
 {$IMPLICITBUILD OFF}
 
+{$I ..\..\Source\Common\CnPack.inc}
+
 requires
   vcl,
   vclx,

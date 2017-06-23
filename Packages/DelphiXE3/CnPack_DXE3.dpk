@@ -29,6 +29,8 @@ package CnPack_DXE3;
 {$RUNONLY}
 {$IMPLICITBUILD OFF}
 
+{$I ..\..\Source\Common\CnPack.inc}
+
 requires
   vcl,
   vclx,

@@ -30,6 +30,8 @@ package CnPack_DXE2;
 {$RUNONLY}
 {$IMPLICITBUILD OFF}
 
+{$I ..\..\Source\Common\CnPackk.inc}
+
 requires
   vcl,
   vclx,

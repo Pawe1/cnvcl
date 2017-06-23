@@ -30,6 +30,8 @@ package dclCnPack_DXE6;
 {$DESIGNONLY}
 {$IMPLICITBUILD OFF}
 
+{$I ..\..\Source\Common\CnPack.inc}
+
 requires
   vcl,
   vclx,

@@ -28,6 +28,8 @@ package dclCnPack_DXE2;
 {$IMPLICITBUILD OFF}
 {$DEFINE RELEASE}
 
+{$I ..\..\Source\Common\CnPack.inc}
+
 requires
   vcl,
   vclx,
